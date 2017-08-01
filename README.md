@@ -1,6 +1,6 @@
 # Handmade Hero Powershell
 
-A Powershell equivalent of Handmade Hero's build process. Casey uses `.bat` and [Command-line](https://en.wikipedia.org/wiki/Command-line_interface) and I felt it would be more worthwhile for me to use the newer [Powershell](https://en.wikipedia.org/wiki/PowerShell), with the assumption that `cmd.exe` is being phased out. This repository is the end-state after [Day 001](https://www.youtube.com/watch?v=Ee3EtYb8d1o).
+A Powershell equivalent of Handmade Hero's build process. Casey uses `.bat` and [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe) and I felt it would be more worthwhile for me to use the newer [Powershell](https://en.wikipedia.org/wiki/PowerShell), with the assumption that `cmd.exe` is being phased out. This repository is the end-state after [Day 001](https://www.youtube.com/watch?v=Ee3EtYb8d1o).
 
 ## Setup
 
